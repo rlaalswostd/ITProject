@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855117849518",
+    "project_id": "jjangu-diary",
+    "storage_bucket": "jjangu-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855117849518:android:778f25a77bc3352613de3f",
+        "android_client_info": {
+          "package_name": "com.example.jjangu_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855117849518-eng09c78c4i8ql9log7gsp99hhhdjlo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jjangu_diary",
+            "certificate_hash": "77939203dc17ed21d43e83297696253afadf816b"
+          }
+        },
+        {
+          "client_id": "855117849518-vf8i7m3hssdfgh45hottfloousvdkk25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScwLeBvtCJ6S45pAvgeBft9Sbn4w4tZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855117849518-vf8i7m3hssdfgh45hottfloousvdkk25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

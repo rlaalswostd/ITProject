@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.JJANGU_Diary" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimaryContainer">@color/black</item>
+        <item name="colorPrimary">@color/black</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowDisablePreview">true</item>
+
+    </style>
+
+    <style name="Theme.JJANGU_Diary" parent="Base.Theme.JJANGU_Diary" />
+
+</resources>
